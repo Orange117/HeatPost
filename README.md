@@ -1,6 +1,6 @@
 # HeatPost
 Calculate the heat of the post
-## Start
+## 启动
   1. 将target文件夹下项目war包导入tomcat服务器webapps文件夹中
     - Windows:start.bat
     - Linux:start.sh
