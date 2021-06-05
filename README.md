@@ -8,4 +8,4 @@ Calculate the heat of the post
 - 或通过maven命令：`mvn tomcat7:run`  
 2. default url：http://localhost:8080/get_api_v1_tops
 ## 配置文件
-- 数据库配置文件`src/main/resources/db.properties`
+1. 数据库配置文件`src/main/resources/db.properties`
